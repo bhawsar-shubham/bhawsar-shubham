@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am a passionate Software Engineer with a strong background in ReactJS, JavaScript. I enjoy solving complex problems and building scalable, efficient, and innovative solutions. With years of experience in the industry, I have honed my skills in various programming languages and frameworks. My goal is to continue growing as a developer and to contribute to exciting and impactful projects.
+I am a passionate Software Engineer with a strong background in ReactJS, JavaScript. I enjoy solving complex problems and building scalable, efficient, and innovative solutions. With 3 years of experience in the industry, I have honed my skills in various programming languages and frameworks. My goal is to continue growing as a developer and to contribute to exciting and impactful projects.
 
 - 🔭 I’m currently working on: Life Science Projects.
 - 🌱 I’m currently learning: MERN Stack developemnt.
