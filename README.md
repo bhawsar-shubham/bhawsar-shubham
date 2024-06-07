@@ -28,7 +28,7 @@ Here are some of the technologies and tools I work with:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/bhawsar-shubham)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/Shubham5782)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:shubhambhawsar1999@.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=link)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=link)](https://bhawsar-shubham.github.io/sb-portfolio/)
 
 ## 📈 GitHub Stats
 
